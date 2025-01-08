@@ -1,4 +1,4 @@
-# practicacursopython
+# Practica curso python
 Sistema de Reservas para un Cine con Tarifas Especiales
 Descripción: Desarrolla una aplicación en Python para gestionar las reservas de asientos
 en una sala de cine, incluyendo un sistema de precios con descuentos en ciertos días y
